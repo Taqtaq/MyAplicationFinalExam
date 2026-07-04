@@ -288,4 +288,3 @@ This project is created for educational purposes as part of a university final e
 
 ---
 
-**Built with ❤️ for clean, simple, and effective Android development**
