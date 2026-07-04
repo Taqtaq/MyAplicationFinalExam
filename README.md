@@ -8,6 +8,9 @@ Task Manager is a lightweight Android application designed for managing daily ta
 
 This project was developed following clean code principles and modern Android architecture guidelines, making it easy to understand, maintain, and extend.
 
+
+https://github.com/user-attachments/assets/e7c7af68-6481-4547-8056-15544fbea9b5
+
 ## ✨ Key Features
 
 - **Add Tasks**: Create new tasks with a title and description through a Floating Action Button (FAB)
